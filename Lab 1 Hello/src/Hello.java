@@ -6,7 +6,7 @@ public class Hello {
         int age;
         String home;
 
-        System.out.print("Hello. What is your name? ");
+        System.out.print("Hello. What is your name? "); // Fuck git
         name = scnr.next();
         System.out.print("It's nice to meet you, " + name + ". How old are you? ");
         age = scnr.nextInt();
